@@ -16,19 +16,14 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
-* Data Visualization
+* Data Visualisation
 * Predictive Modeling
-* etc.
+* Machine Learning
 
 ### Technologies
-* R 
-* Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
+* Python,Tableau
+* Pandas, Numpy, Scipy, Matplotlib, Seaborn, sklearn, RandomForestClassifier, GridSearchCV, XGBClassifier
+* 
 * etc. 
 
 ## Project Description
@@ -36,12 +31,11 @@ The purpose of this project is ________. (Describe the main goals of the project
 
 ## Needs of this project
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
+- Data exploration/descriptive statistics
+- Data processing/cleaning
+- Statistical modeling and interpretation
+- Reporting
+
 
 ## Getting Started
 
