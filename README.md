@@ -31,7 +31,7 @@ This project is based on a workplace scenario, where NYC Taxi & Limousine Commis
     XGBoost
 
 ### Technologies
-* Python,Tableau
+* Python, Tableau
 * Pandas, Numpy, Scipy, Matplotlib, Seaborn, sklearn, XGBoost
 
 ## Needs of this project
