@@ -27,6 +27,8 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc. 
 
 ## Project Description
+- Dataset used for the project is a sample drawn from TLC's 113 millions-row data (https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs). 
+
 (Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
