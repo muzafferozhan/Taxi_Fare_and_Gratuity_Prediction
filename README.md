@@ -2,7 +2,7 @@
 
 This project is based on a workplace scenario, where NYC Taxi & Limousine Commission contracted my company for building predictive models to provide estimated fares before the journey commences.
 
-#### -- Project Status: [Completed]
+#### Project Status: [Completed]
 
 ## Project Overview and Description
 
