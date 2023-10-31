@@ -1,35 +1,38 @@
 # Taxi Fare and Gratuity Prediction
-This project is based on a workplace scenario, where NYC Taxi & Limousine Commission contracted me for building predictive models to provide estimated fares and tips before
-the journey commences.
+
+This project is based on a workplace scenario, where NYC Taxi & Limousine Commission contracted my company for building predictive models to provide estimated fares before the journey commences.
 
 #### -- Project Status: [Completed]
 
-## Project Intro/Objective
-The purpose of this project is to design a Multiple Linear regression model for fare amount prediction and Random Forest   identify key variables that could  build identify predictive insights from the TLC's trip dataset and 
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+## Project Overview and Description
 
-### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+The purpose of this project is to design a Multiple Linear regression model for taxi fare amount prediction and a machine learning model that provides predictions on whether a customer will be a generous tipper.
+
+The project started with initial inspection and EDA, followed by identification of key variables for modelling that were later restructured as part of feature engineering. 
+
+The models built were then fit to the training data and their performance was checked using test data.
+
+Key deliverables from each step are provided in the executive summary reports provided in this repository.
+
+The jupyter notebook provided is a walk-through of the whole project with step-by-step explanations, codes and their outputs.
+
+Dataset used for the project is a sample drawn from TLC's 113 millions-row data.
+
+Full dataset is available at https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs
+
 
 ### Methods Used
-* Inferential Statistics
+* Descriptive Statistics
 * Data Visualisation
-* Predictive Modeling
-* Machine Learning
+* Anomaly Detection, Data Cleaning, Outlier Imputation
+* Predictive Modeling and Machine Learning: 
+    Linear Regression
+    Random Forest
+    XGBoost
 
 ### Technologies
 * Python,Tableau
-* Pandas, Numpy, Scipy, Matplotlib, Seaborn, sklearn, RandomForestClassifier, GridSearchCV, XGBClassifier
-* 
-* etc. 
-
-## Project Description
-- Dataset used for the project is a sample drawn from TLC's 113 millions-row data (https://data.cityofnewyork.us/Transportation/2017-Yellow-Taxi-Trip-Data/biws-g3hs). 
-
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+* Pandas, Numpy, Scipy, Matplotlib, Seaborn, sklearn, XGBoost
 
 ## Needs of this project
 
@@ -39,38 +42,4 @@ The purpose of this project is ________. (Describe the main goals of the project
 - Reporting
 
 
-## Getting Started
 
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
-
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
